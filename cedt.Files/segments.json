@@ -872,7 +872,7 @@
                 "reverse": true
             }
         ]
-    }, 
+    },
     {
         "territory": "e23",
         "segments": [
@@ -937,7 +937,7 @@
                 "reverse": true
             }
         ]
-    }, 
+    },
     {
         "territory": "e24",
         "segments": [
@@ -1002,7 +1002,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "e25",
         "segments": [
@@ -1039,7 +1039,7 @@
                 "reverse": true
             }
         ]
-    }, 
+    },
     {
         "territory": "e26",
         "segments": [
@@ -1072,7 +1072,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "s01",
         "segments": [
@@ -1193,7 +1193,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "s02",
         "segments": [
@@ -1226,7 +1226,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "s03",
         "segments": [
@@ -1271,7 +1271,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "s04",
         "segments": [
@@ -1320,7 +1320,7 @@
                 "reverse": false
             }
         ]
-    }, 
+    },
     {
         "territory": "s05",
         "segments": [
@@ -1354,6 +1354,460 @@
             },
             {
                 "id": "Line 130",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s06",
+        "segments": [
+            {
+                "id": "Point 205",
+                "reverse": false
+            },
+            {
+                "id": "Line 129",
+                "reverse": false
+            },
+            {
+                "id": "Point 204",
+                "reverse": false
+            },
+            {
+                "id": "Line 119",
+                "reverse": false
+            },
+            {
+                "id": "Point 207",
+                "reverse": false
+            },
+            {
+                "id": "Line 128",
+                "reverse": false
+            },
+            {
+                "id": "Point 206",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s07",
+        "segments": [
+            {
+                "id": "Point 206",
+                "reverse": false
+            },
+            {
+                "id": "Line 128",
+                "reverse": false
+            },
+            {
+                "id": "Point 207",
+                "reverse": false
+            },
+            {
+                "id": "Line 116",
+                "reverse": false
+            },
+            {
+                "id": "Point 233",
+                "reverse": false
+            },
+            {
+                "id": "Point 209",
+                "reverse": false
+            },
+            {
+                "id": "Point 208",
+                "reverse": false
+            },
+            {
+                "id": "Line 126",
+                "reverse": false
+            },
+            {
+                "id": "Point 211",
+                "reverse": false
+            },
+            {
+                "id": "Line 127",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s08",
+        "segments": [
+            {
+                "id": "Point 208",
+                "reverse": false
+            },
+            {
+                "id": "Point 209",
+                "reverse": false
+            },
+            {
+                "id": "Point 233",
+                "reverse": false
+            },
+            {
+                "id": "Point 232",
+                "reverse": false
+            },
+            {
+                "id": "Point 205",
+                "reverse": false
+            },
+            {
+                "id": "Point 206",
+                "reverse": false
+            },
+            {
+                "id": "Point 204",
+                "reverse": false
+            },
+            {
+                "id": "Point 208",
+                "reverse": false
+            },
+            {
+                "id": "Point 209",
+                "reverse": false
+            },
+            {
+                "id": "Point 210",
+                "reverse": false
+            },
+            {
+                "id": "Line 156",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s09",
+        "segments": [
+            {
+                "id": "Point 211",
+                "reverse": false
+            },
+            {
+                "id": "Line 126",
+                "reverse": false
+            },
+            {
+                "id": "Point 208",
+                "reverse": false
+            },
+            {
+                "id": "Line 156",
+                "reverse": false
+            },
+            {
+                "id": "Point 210",
+                "reverse": false
+            },
+            {
+                "id": "Point 213",
+                "reverse": false
+            },
+            {
+                "id": "Point 212",
+                "reverse": false
+            },
+            {
+                "id": "Line 154",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s10",
+        "segments": [
+            {
+                "id": "Point 215",
+                "reverse": false
+            },
+            {
+                "id": "Point 216",
+                "reverse": false
+            },
+            {
+                "id": "Point 214",
+                "reverse": false
+            },
+            {
+                "id": "Line 173",
+                "reverse": false
+            },
+            {
+                "id": "Point 217",
+                "reverse": false
+            },
+            {
+                "id": "Point 219",
+                "reverse": false
+            },
+            {
+                "id": "Point 218",
+                "reverse": false
+            },
+            {
+                "id": "Line 172",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s11",
+        "segments": [
+            {
+                "id": "Point 221",
+                "reverse": false
+            },
+            {
+                "id": "Line 161",
+                "reverse": false
+            },
+            {
+                "id": "Point 215",
+                "reverse": false
+            },
+            {
+                "id": "Line 172",
+                "reverse": false
+            },
+            {
+                "id": "Point 218",
+                "reverse": false
+            },
+            {
+                "id": "Line 175",
+                "reverse": false
+            },
+            {
+                "id": "Point 220",
+                "reverse": false
+            },
+            {
+                "id": "Line 176",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s12",
+        "segments": [
+            {
+                "id": "Point 234",
+                "reverse": false
+            },
+            {
+                "id": "Line 165",
+                "reverse": false
+            },
+            {
+                "id": "Point 222",
+                "reverse": false
+            },
+            {
+                "id": "Line 152",
+                "reverse": false
+            },
+            {
+                "id": "Point 212",
+                "reverse": false
+            },
+            {
+                "id": "Point 213",
+                "reverse": false
+            },
+            {
+                "id": "Point 210",
+                "reverse": false
+            },
+            {
+                "id": "Point 209",
+                "reverse": false
+            },
+            {
+                "id": "Point 214",
+                "reverse": false
+            },
+            {
+                "id": "Point 216",
+                "reverse": false
+            },
+            {
+                "id": "Point 215",
+                "reverse": false
+            },
+            {
+                "id": "Line 161",
+                "reverse": false
+            },
+            {
+                "id": "Point 221",
+                "reverse": false
+            },
+            {
+                "id": "Line 162",
+                "reverse": false
+            },
+            {
+                "id": "Point 236",
+                "reverse": false
+            },
+            {
+                "id": "Point 235",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s13",
+        "segments": [
+            {
+                "id": "Point 223",
+                "reverse": false
+            },
+            {
+                "id": "Point 224",
+                "reverse": false
+            },
+            {
+                "id": "Line 149",
+                "reverse": false
+            },
+            {
+                "id": "Point 211",
+                "reverse": false
+            },
+            {
+                "id": "Line 154",
+                "reverse": false
+            },
+            {
+                "id": "Point 212",
+                "reverse": false
+            },
+            {
+                "id": "Line 152",
+                "reverse": false
+            },
+            {
+                "id": "Point 222",
+                "reverse": false
+            },
+            {
+                "id": "Point 225",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s14",
+        "segments": [
+            {
+                "id": "Point 227",
+                "reverse": false
+            },
+            {
+                "id": "Line 146",
+                "reverse": false
+            },
+            {
+                "id": "Point 205",
+                "reverse": false
+            },
+            {
+                "id": "Point 206",
+                "reverse": false
+            },
+            {
+                "id": "Line 127",
+                "reverse": false
+            },
+            {
+                "id": "Point 211",
+                "reverse": false
+            },
+            {
+                "id": "Line 149",
+                "reverse": false
+            },
+            {
+                "id": "Point 224",
+                "reverse": false
+            },
+            {
+                "id": "Line 148",
+                "reverse": false
+            },
+            {
+                "id": "Point 226",
+                "reverse": false
+            },
+            {
+                "id": "Line 147",
+                "reverse": false
+            }
+        ]
+    },
+    {
+        "territory": "s15",
+        "segments": [
+            {
+                "id": "Point 229",
+                "reverse": false
+            },
+            {
+                "id": "Line 141",
+                "reverse": false
+            },
+            {
+                "id": "Line 143",
+                "reverse": false
+            },
+            {
+                "id": "Point 201",
+                "reverse": false
+            },
+            {
+                "id": "Point 203",
+                "reverse": false
+            },
+            {
+                "id": "Point 202",
+                "reverse": false
+            },
+            {
+                "id": "Line 130",
+                "reverse": false
+            },
+            {
+                "id": "Point 205",
+                "reverse": false
+            },
+            {
+                "id": "Line 146",
+                "reverse": false
+            },
+            {
+                "id": "Point 227",
+                "reverse": false
+            },
+            {
+                "id": "Line 144",
+                "reverse": false
+            },
+            {
+                "id": "Point 228",
+                "reverse": false
+            },
+            {
+                "id": "Line 145",
                 "reverse": false
             }
         ]
