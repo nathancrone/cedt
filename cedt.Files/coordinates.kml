@@ -936,7 +936,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 130</name>
+			<name>Line 131</name>
 			<styleUrl>#line-000000-1-nodesc</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -1021,14 +1021,6 @@
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>-96.7518865,32.8142108,0.0 -96.7517417,32.8139894,0.0 -96.7516887,32.8138271,0.0 -96.7516465,32.8135836,0.0 -96.7515895,32.813051,0.0 -96.7515948,32.8128324,0.0 -96.7516297,32.8127129,0.0</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 142</name>
-			<styleUrl>#line-000000-1-nodesc</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>-96.7516297,32.8127129,0.0 -96.7511214,32.8127095,0.0</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
@@ -1208,7 +1200,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 179</name>
+			<name>Line 180</name>
 			<styleUrl>#line-000000-1-nodesc</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -1398,28 +1390,28 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 204</name>
+			<name>Point 252</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.7464758,32.7913564,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 205</name>
+			<name>Point 254</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.7464396,32.7929837,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 206</name>
+			<name>Point 253</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.74645710000001,32.7916754,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 233</name>
+			<name>Point 251</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.74736770000001,32.7937295,0.0</coordinates>
@@ -1440,14 +1432,14 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 208</name>
+			<name>Point 248</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.7505384,32.7912012,0.0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 209</name>
+			<name>Point 249</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.7558388,32.7909522,0.0</coordinates>
@@ -1720,7 +1712,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Point 232</name>
+			<name>Point 250</name>
 			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-96.7467045,32.7931774,0.0</coordinates>
