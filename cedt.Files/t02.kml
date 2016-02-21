@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Territories 02</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>S35</name>
+			<Placemark>
+				<name>Directions from 4600 N Central Expy, Dallas, TX 75206, USA to 2900 N Henderson Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78574,32.82186,0.0 -96.78564,32.82176,0.0 -96.7856,32.82173,0.0 -96.78552,32.82163,0.0 -96.78542,32.82151,0.0 -96.78534,32.8214,0.0 -96.78531,32.82131,0.0 -96.78528,32.82123,0.0 -96.78528,32.82117,0.0 -96.78516,32.82099,0.0 -96.78499,32.82073,0.0 -96.78491,32.82059,0.0 -96.78465,32.82021,0.0 -96.78419,32.81978,0.0 -96.78377,32.81943,0.0 -96.78347,32.81918,0.0 -96.78332,32.81905,0.0 -96.78296,32.81873,0.0 -96.78285,32.81864,0.0 -96.78259,32.81841,0.0 -96.78235,32.8182,0.0 -96.78217,32.81805,0.0 -96.78184,32.81774,0.0 -96.78063,32.81671,0.0 -96.78239,32.81491,0.0 -96.78328,32.81401,0.0 -96.78339,32.81412,0.0 -96.78356,32.814260000000004,0.0 -96.78373,32.81438,0.0 -96.78393,32.81452,0.0 -96.784,32.81455,0.0 -96.78407,32.81459,0.0 -96.78413,32.81462,0.0 -96.78425,32.81467,0.0 -96.78458,32.81477,0.0 -96.78531,32.81494,0.0 -96.78596,32.81505,0.0 -96.78628,32.81512,0.0 -96.78654,32.81516,0.0 -96.78665,32.81517,0.0 -96.78669000000001,32.81517,0.0 -96.78676,32.81517,0.0 -96.78703000000002,32.81522,0.0 -96.78765,32.81533,0.0 -96.7884,32.81548,0.0 -96.78897,32.81561,0.0 -96.78857,32.81636,0.0 -96.7885,32.8165,0.0 -96.78824000000002,32.81704,0.0 -96.7881,32.81738,0.0 -96.78801,32.81757,0.0 -96.78778,32.81796,0.0 -96.78707,32.81919,0.0 -96.7869,32.81951,0.0 -96.78661,32.82007,0.0 -96.78654,32.8202,0.0 -96.78612,32.82112,0.0 -96.78609,32.82119,0.0 -96.78603,32.8213,0.0 -96.78601,32.82133,0.0 -96.78586,32.82167,0.0 -96.7858,32.82177,0.0 -96.78574,32.82186,0.0 -96.78576,32.82188,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>4600 N Central Expy, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7857407,32.8218591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2900 N Henderson Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7857624,32.821877,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N36</name>
+			<Placemark>
+				<name>Directions from 2811 N Henderson Ave, Dallas, TX 75206, USA to 2811 N Henderson Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78347,32.81918,0.0 -96.78234,32.81918,0.0 -96.77991,32.8192,0.0 -96.77747,32.81921,0.0 -96.77743,32.8187,0.0 -96.77743,32.81821,0.0 -96.77743,32.81806,0.0 -96.77743,32.81775,0.0 -96.77743,32.81725,0.0 -96.77742,32.81679,0.0 -96.77742,32.81631,0.0 -96.77743,32.81582,0.0 -96.77743,32.81534,0.0 -96.77743,32.81461,0.0 -96.77742,32.81392,0.0 -96.7785,32.81485,0.0 -96.77956,32.81577,0.0 -96.77979,32.81597,0.0 -96.78037,32.81649,0.0 -96.78063,32.81671,0.0 -96.78184,32.81774,0.0 -96.78217,32.81805,0.0 -96.78235,32.8182,0.0 -96.78259,32.81841,0.0 -96.78285,32.81864,0.0 -96.78296,32.81873,0.0 -96.78332,32.81905,0.0 -96.78347,32.81918,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>2811 N Henderson Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7834695,32.8191825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2811 N Henderson Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7834695,32.8191825,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N37</name>
+			<Placemark>
+				<name>Directions from 5000 Vickery Blvd, Dallas, TX 75206, USA to 5000 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78515,32.82282,0.0 -96.7851,32.82278,0.0 -96.78508,32.82274,0.0 -96.78506,32.82268,0.0 -96.78506,32.82261,0.0 -96.78506,32.8225,0.0 -96.78505,32.82244,0.0 -96.78504000000001,32.8224,0.0 -96.785,32.82237,0.0 -96.78495,32.82237,0.0 -96.78234,32.82237,0.0 -96.77992000000002,32.82239,0.0 -96.77746,32.82239,0.0 -96.77746,32.82183,0.0 -96.77746,32.82129,0.0 -96.77746,32.82077,0.0 -96.77745,32.82024,0.0 -96.77745,32.81973,0.0 -96.77747,32.81921,0.0 -96.77991,32.8192,0.0 -96.78234,32.81918,0.0 -96.78347,32.81918,0.0 -96.78377,32.81943,0.0 -96.78419,32.81978,0.0 -96.78465,32.82021,0.0 -96.78491,32.82059,0.0 -96.78499,32.82073,0.0 -96.78516,32.82099,0.0 -96.78528,32.82117,0.0 -96.78528,32.82123,0.0 -96.78531,32.82131,0.0 -96.78534,32.8214,0.0 -96.78542,32.82151,0.0 -96.78552,32.82163,0.0 -96.7856,32.82173,0.0 -96.78564,32.82176,0.0 -96.78574,32.82186,0.0 -96.7857,32.82195,0.0 -96.78555,32.8222,0.0 -96.78539,32.82247,0.0 -96.78525,32.8227,0.0 -96.78515,32.82282,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5000 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7851506,32.8228227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5000 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7851506,32.8228227,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N38</name>
+			<Placemark>
+				<name>5000 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7851506,32.8228227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Directions from 5000 Vickery Blvd, Dallas, TX 75206, USA to 5000-5008 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78515,32.82282,0.0 -96.78505,32.82297,0.0 -96.78474,32.8235,0.0 -96.7846,32.82378,0.0 -96.78448,32.82403,0.0 -96.78426,32.82452,0.0 -96.78407,32.82500000000001,0.0 -96.78388,32.82551,0.0 -96.78379,32.82547,0.0 -96.78235,32.82546,0.0 -96.77993000000001,32.825480000000006,0.0 -96.77744,32.82547,0.0 -96.77744,32.82500000000001,0.0 -96.77744,32.8245,0.0 -96.77744,32.82402,0.0 -96.77744,32.82349,0.0 -96.77746,32.82296,0.0 -96.77746,32.82239,0.0 -96.77992000000002,32.82239,0.0 -96.78234,32.82237,0.0 -96.78495,32.82237,0.0 -96.785,32.82237,0.0 -96.78504000000001,32.8224,0.0 -96.78505,32.82244,0.0 -96.78506,32.8225,0.0 -96.78506,32.82261,0.0 -96.78506,32.82268,0.0 -96.78508,32.82274,0.0 -96.7851,32.82278,0.0 -96.78513000000001,32.82281,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5000-5008 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7851331,32.8228102,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N59</name>
+			<Placemark>
+				<name>Directions from 5123 Ridgedale Ave, Dallas, TX 75206, USA to 5123 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78388,32.82551,0.0 -96.78383000000001,32.825610000000005,0.0 -96.78376,32.82583,0.0 -96.78372,32.82596,0.0 -96.78369,32.82605,0.0 -96.78357000000001,32.82632,0.0 -96.78352,32.82641,0.0 -96.78347,32.8265,0.0 -96.78342,32.82659,0.0 -96.78318,32.82708000000001,0.0 -96.78294,32.82754,0.0 -96.7827,32.82797,0.0 -96.78245,32.82838000000001,0.0 -96.78218000000001,32.82881,0.0 -96.78193,32.8292,0.0 -96.78185,32.82935,0.0 -96.78154,32.82979,0.0 -96.78145,32.82991,0.0 -96.78127,32.8299,0.0 -96.781,32.82991,0.0 -96.78123000000001,32.8295,0.0 -96.78147,32.82906,0.0 -96.78169,32.82865,0.0 -96.78192000000001,32.82821,0.0 -96.7799,32.8282,0.0 -96.77742,32.8282,0.0 -96.77741000000002,32.82779,0.0 -96.77741000000002,32.82736,0.0 -96.77741000000002,32.82695,0.0 -96.77741000000002,32.82645,0.0 -96.77743,32.82597,0.0 -96.77744,32.82547,0.0 -96.77993000000001,32.825480000000006,0.0 -96.78235,32.82546,0.0 -96.78379,32.82547,0.0 -96.78388,32.82551,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5123 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7838752,32.8255094,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5123 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7838752,32.8255094,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N57</name>
+			<Placemark>
+				<name>Directions from 5200 Longview St, Dallas, TX 75206, USA to 5200 Longview St, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.78079,32.83089,0.0 -96.78071,32.83085,0.0 -96.78034,32.83084,0.0 -96.77775,32.83084,0.0 -96.7774,32.83084,0.0 -96.7751,32.83085,0.0 -96.77471,32.83086,0.0 -96.77471,32.8304,0.0 -96.77471,32.82992,0.0 -96.77473,32.82951,0.0 -96.77471,32.82907,0.0 -96.7774,32.82906,0.0 -96.77741000000002,32.82865,0.0 -96.77742,32.8282,0.0 -96.7799,32.8282,0.0 -96.78192000000001,32.82821,0.0 -96.78169,32.82865,0.0 -96.78147,32.82906,0.0 -96.78123000000001,32.8295,0.0 -96.781,32.82991,0.0 -96.78127,32.8299,0.0 -96.78145,32.82991,0.0 -96.78133,32.83005,0.0 -96.78116,32.83029,0.0 -96.7811,32.83039,0.0 -96.78079,32.83089,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5200 Longview St, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.780792,32.8308927,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5200 Longview St, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.780792,32.8308927,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N55</name>
+			<Placemark>
+				<name>Directions from 5300 Ellsworth Ave, Dallas, TX 75206, USA to 5612 N Central Expy, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77949,32.83365,0.0 -96.77889,32.83364,0.0 -96.77785,32.83364,0.0 -96.77678,32.83365,0.0 -96.77551000000001,32.83364,0.0 -96.77514,32.83364,0.0 -96.77407,32.83364,0.0 -96.77223,32.83364,0.0 -96.77011,32.83364,0.0 -96.77011,32.8335,0.0 -96.77011,32.83316,0.0 -96.77011,32.83306,0.0 -96.77012,32.83268,0.0 -96.77012,32.83265,0.0 -96.77013,32.83223,0.0 -96.77014,32.831720000000004,0.0 -96.77015,32.83138,0.0 -96.77016,32.83087,0.0 -96.77063,32.83088,0.0 -96.77225,32.83087,0.0 -96.77471,32.83086,0.0 -96.7751,32.83085,0.0 -96.7774,32.83084,0.0 -96.77775,32.83084,0.0 -96.78034,32.83084,0.0 -96.78071,32.83085,0.0 -96.78079,32.83089,0.0 -96.78057,32.83131,0.0 -96.78043,32.83161,0.0 -96.78032,32.83187,0.0 -96.78019,32.83226,0.0 -96.77999,32.83279,0.0 -96.77986,32.83313,0.0 -96.77982,32.83326,0.0 -96.77973,32.83361,0.0 -96.77972,32.83364,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5300 Ellsworth Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.77949040000001,32.8336457,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5612 N Central Expy, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.779723,32.8336433,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N54</name>
+			<Placemark>
+				<name>Directions from 5612 N Central Expy, Dallas, TX 75206, USA to 5300 Ellsworth Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77972,32.83365,0.0 -96.77963,32.83401,0.0 -96.77957,32.83427,0.0 -96.77952,32.83452,0.0 -96.7795,32.8347,0.0 -96.77941000000001,32.83493,0.0 -96.77934,32.83509,0.0 -96.77927,32.83523,0.0 -96.77918,32.83538,0.0 -96.77904,32.83559,0.0 -96.77902,32.83563,0.0 -96.77893,32.83578,0.0 -96.7787,32.83612,0.0 -96.77858,32.83626,0.0 -96.77846,32.83642,0.0 -96.77836000000002,32.83654,0.0 -96.77823,32.83669,0.0 -96.77778,32.83668,0.0 -96.77733,32.83667,0.0 -96.77696,32.83665,0.0 -96.77665,32.83665,0.0 -96.77643,32.83665,0.0 -96.77636,32.83665,0.0 -96.77618,32.83665,0.0 -96.77594,32.83666,0.0 -96.77525000000001,32.83666,0.0 -96.77501,32.83666,0.0 -96.77487,32.83666,0.0 -96.77467,32.83665,0.0 -96.77429,32.83664,0.0 -96.77384,32.83663,0.0 -96.77339,32.83663,0.0 -96.77325000000002,32.83663,0.0 -96.77299,32.83663,0.0 -96.77271,32.83663,0.0 -96.77243,32.83663,0.0 -96.77241,32.83663,0.0 -96.77181,32.83663,0.0 -96.77153,32.83663,0.0 -96.7709,32.83663,0.0 -96.77065000000002,32.83664,0.0 -96.7701,32.83664,0.0 -96.77009,32.83657,0.0 -96.7701,32.83652,0.0 -96.77011,32.83614,0.0 -96.77011,32.83608,0.0 -96.7701,32.83589,0.0 -96.7701,32.83572,0.0 -96.77011,32.83559,0.0 -96.77011,32.83519,0.0 -96.77011,32.83511,0.0 -96.77011,32.83476,0.0 -96.77011,32.83464,0.0 -96.77012,32.83448,0.0 -96.77012,32.83435,0.0 -96.77012,32.83415,0.0 -96.77011,32.83392,0.0 -96.77011,32.83364,0.0 -96.77223,32.83364,0.0 -96.77407,32.83364,0.0 -96.77514,32.83364,0.0 -96.77551000000001,32.83364,0.0 -96.77678,32.83365,0.0 -96.77785,32.83364,0.0 -96.77889,32.83364,0.0 -96.77949,32.83365,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5612 N Central Expy, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.779722,32.8336472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5300 Ellsworth Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.77949040000001,32.8336457,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N56</name>
+			<Placemark>
+				<name>Directions from 3601 McMillan Ave, Dallas, TX 75206, USA to 3601 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77471,32.83086,0.0 -96.77225,32.83087,0.0 -96.77063,32.83088,0.0 -96.77016,32.83087,0.0 -96.77016,32.8305,0.0 -96.77017,32.83018,0.0 -96.77016,32.82995,0.0 -96.77016,32.8297,0.0 -96.77016,32.82952,0.0 -96.77016,32.82944,0.0 -96.77016,32.8291,0.0 -96.77016,32.82894,0.0 -96.77015,32.82867,0.0 -96.77015,32.82845,0.0 -96.77015,32.82824,0.0 -96.77227,32.82822,0.0 -96.77472,32.82822,0.0 -96.77742,32.8282,0.0 -96.77741000000002,32.82865,0.0 -96.7774,32.82906,0.0 -96.77471,32.82907,0.0 -96.77473,32.82951,0.0 -96.77471,32.82992,0.0 -96.77471,32.8304,0.0 -96.77471,32.83086,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>3601 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7747121,32.8308581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3601 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7747121,32.8308581,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N39</name>
+			<Placemark>
+				<name>Directions from 5401 Mercedes Ave, Dallas, TX 75206, USA to 5401 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77742,32.8282,0.0 -96.77472,32.82822,0.0 -96.77227,32.82822,0.0 -96.77015,32.82824,0.0 -96.77014,32.82798,0.0 -96.77015,32.82781,0.0 -96.77016,32.8275,0.0 -96.77016,32.82739,0.0 -96.77016,32.82702,0.0 -96.77016,32.82698,0.0 -96.77016,32.82654,0.0 -96.77017,32.82648,0.0 -96.77017,32.82606,0.0 -96.77017,32.82599,0.0 -96.77017,32.8255,0.0 -96.77227,32.82549,0.0 -96.77475,32.825480000000006,0.0 -96.77744,32.82547,0.0 -96.77743,32.82597,0.0 -96.77741000000002,32.82645,0.0 -96.77741000000002,32.82695,0.0 -96.77741000000002,32.82736,0.0 -96.77741000000002,32.82779,0.0 -96.77742,32.8282,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5401 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774174,32.828201,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5401 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774174,32.828201,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

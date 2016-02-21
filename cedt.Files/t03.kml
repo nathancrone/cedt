@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Territories 03</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>N32</name>
+			<Placemark>
+				<name>Directions from 5350 Ridgedale Ave, Dallas, TX 75206, USA to 5350 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77744,32.82547,0.0 -96.77475,32.825480000000006,0.0 -96.77227,32.82549,0.0 -96.77017,32.8255,0.0 -96.77017,32.82547,0.0 -96.77017,32.82502,0.0 -96.77017,32.82491,0.0 -96.77016,32.82454,0.0 -96.77016,32.82434,0.0 -96.77016,32.82404,0.0 -96.77015,32.82388,0.0 -96.77015,32.82352,0.0 -96.77016,32.82342,0.0 -96.77016,32.82298,0.0 -96.77016,32.82296,0.0 -96.77016,32.82271,0.0 -96.77016,32.82249,0.0 -96.77016,32.82242,0.0 -96.77230000000002,32.82241,0.0 -96.77475,32.8224,0.0 -96.77539,32.82239,0.0 -96.77607,32.82239,0.0 -96.77663,32.8224,0.0 -96.77746,32.82239,0.0 -96.77746,32.82296,0.0 -96.77744,32.82349,0.0 -96.77744,32.82402,0.0 -96.77744,32.8245,0.0 -96.77744,32.82500000000001,0.0 -96.77744,32.82547,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5350 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774392,32.825474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5350 Ridgedale Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774392,32.825474,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N33</name>
+			<Placemark>
+				<name>Directions from 5354 Vickery Blvd, Dallas, TX 75206, USA to 5354 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77746,32.82239,0.0 -96.77663,32.8224,0.0 -96.77607,32.82239,0.0 -96.77539,32.82239,0.0 -96.77475,32.8224,0.0 -96.77230000000002,32.82241,0.0 -96.77016,32.82242,0.0 -96.77016,32.82204,0.0 -96.77016,32.82184,0.0 -96.77016,32.82153,0.0 -96.77017,32.82132000000001,0.0 -96.77017,32.82099,0.0 -96.77017,32.82078,0.0 -96.77017,32.82045,0.0 -96.77018,32.82027,0.0 -96.77017,32.81986,0.0 -96.77017,32.81976,0.0 -96.77018,32.81927,0.0 -96.77018,32.81923,0.0 -96.77094,32.81923,0.0 -96.77228,32.81922,0.0 -96.77474,32.81922,0.0 -96.77747,32.81921,0.0 -96.77745,32.81973,0.0 -96.77745,32.82024,0.0 -96.77746,32.82077,0.0 -96.77746,32.82129,0.0 -96.77746,32.82183,0.0 -96.77746,32.82239,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5354 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774591,32.8223947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5354 Vickery Blvd, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774591,32.8223947,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N34</name>
+			<Placemark>
+				<name>Directions from 5403 Richard Ave, Dallas, TX 75206, USA to 5403 Richard Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77747,32.81921,0.0 -96.77474,32.81922,0.0 -96.77228,32.81922,0.0 -96.77094,32.81923,0.0 -96.77018,32.81923,0.0 -96.77018,32.81871,0.0 -96.77018,32.81868,0.0 -96.77018,32.81858,0.0 -96.77018,32.81806,0.0 -96.77019,32.81779,0.0 -96.77018,32.81737,0.0 -96.77018,32.81727,0.0 -96.77018,32.81708,0.0 -96.77018,32.81685,0.0 -96.77018,32.81651000000001,0.0 -96.77018,32.81633,0.0 -96.77231,32.81632,0.0 -96.77355,32.81631,0.0 -96.77474,32.81631,0.0 -96.77474,32.81582,0.0 -96.77474,32.81532,0.0 -96.77474,32.81459,0.0 -96.77474,32.81304,0.0 -96.77474,32.81198,0.0 -96.77474,32.8116,0.0 -96.77509,32.81189,0.0 -96.77539,32.81215,0.0 -96.77606,32.81274,0.0 -96.77742,32.81392,0.0 -96.77743,32.81461,0.0 -96.77743,32.81534,0.0 -96.77743,32.81582,0.0 -96.77742,32.81631,0.0 -96.77742,32.81679,0.0 -96.77743,32.81725,0.0 -96.77743,32.81775,0.0 -96.77743,32.81806,0.0 -96.77743,32.81821,0.0 -96.77743,32.8187,0.0 -96.77747,32.81921,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5403 Richard Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774651,32.8192068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5403 Richard Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7774651,32.8192068,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N35</name>
+			<Placemark>
+				<name>Directions from 2201 McMillan Ave, Dallas, TX 75206, USA to 2201 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77474,32.81631,0.0 -96.77355,32.81631,0.0 -96.77231,32.81632,0.0 -96.77018,32.81633,0.0 -96.77018,32.81605,0.0 -96.77019,32.81576,0.0 -96.77019,32.81543,0.0 -96.77018,32.81482,0.0 -96.77019,32.81457,0.0 -96.77019,32.81388,0.0 -96.77019,32.81339,0.0 -96.7702,32.81271,0.0 -96.7702,32.81224,0.0 -96.77021,32.81216,0.0 -96.77021,32.8119,0.0 -96.77018,32.81116,0.0 -96.77017,32.81006,0.0 -96.77017,32.80944,0.0 -96.77018,32.80893,0.0 -96.77018,32.80845,0.0 -96.77018,32.80797,0.0 -96.77017,32.80767,0.0 -96.77049,32.80793,0.0 -96.77074000000002,32.808150000000005,0.0 -96.77144,32.80873,0.0 -96.77228,32.80948,0.0 -96.77268,32.80982,0.0 -96.77309,32.81018,0.0 -96.77388,32.81087,0.0 -96.77418,32.81112,0.0 -96.77449,32.81139,0.0 -96.77474,32.8116,0.0 -96.77474,32.81198,0.0 -96.77474,32.81304,0.0 -96.77474,32.81459,0.0 -96.77474,32.81532,0.0 -96.77474,32.81582,0.0 -96.77474,32.81631,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>2201 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.774738,32.8163119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2201 McMillan Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.774738,32.8163119,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N41</name>
+			<Placemark>
+				<name>Directions from 4209 Greenville Ave, Dallas, TX 75206, USA to 4209 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.7701,32.83664,0.0 -96.76992,32.83664,0.0 -96.76971,32.83664,0.0 -96.76938,32.83664,0.0 -96.76925,32.83665,0.0 -96.76916,32.83665,0.0 -96.76906,32.83666,0.0 -96.76894,32.83666,0.0 -96.76811,32.83666,0.0 -96.76791,32.83666,0.0 -96.76775,32.83665,0.0 -96.76729,32.83663,0.0 -96.7669,32.83661,0.0 -96.76602,32.8366,0.0 -96.76565,32.8366,0.0 -96.76565,32.8365,0.0 -96.76566,32.83606,0.0 -96.76567,32.83562,0.0 -96.76567,32.83518,0.0 -96.76568,32.83474,0.0 -96.76566,32.83436,0.0 -96.76565,32.83397000000001,0.0 -96.76567,32.83362,0.0 -96.76566,32.83323,0.0 -96.76568,32.83293,0.0 -96.76568,32.83239,0.0 -96.76672,32.83239,0.0 -96.7668,32.83238,0.0 -96.76685,32.83236,0.0 -96.76795,32.83235,0.0 -96.76795,32.83221,0.0 -96.76954,32.83222,0.0 -96.77013,32.83223,0.0 -96.77012,32.83265,0.0 -96.77012,32.83268,0.0 -96.77011,32.83306,0.0 -96.77011,32.83316,0.0 -96.77011,32.8335,0.0 -96.77011,32.83364,0.0 -96.77011,32.83392,0.0 -96.77012,32.83415,0.0 -96.77012,32.83435,0.0 -96.77012,32.83448,0.0 -96.77011,32.83464,0.0 -96.77011,32.83476,0.0 -96.77011,32.83511,0.0 -96.77011,32.83519,0.0 -96.77011,32.83559,0.0 -96.7701,32.83572,0.0 -96.7701,32.83589,0.0 -96.77011,32.83608,0.0 -96.77011,32.83614,0.0 -96.7701,32.83652,0.0 -96.77009,32.83657,0.0 -96.7701,32.83664,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>4209 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7700957,32.8366397,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4209 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7700957,32.8366397,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N29</name>
+			<Placemark>
+				<name>Directions from 4203 Delmar Ave, Dallas, TX 75206, USA to 4203 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.76565,32.8366,0.0 -96.7655,32.8366,0.0 -96.765,32.8366,0.0 -96.76447,32.8366,0.0 -96.76415,32.83659,0.0 -96.76395,32.83659,0.0 -96.76347,32.83659,0.0 -96.76297,32.83659,0.0 -96.76247,32.83659,0.0 -96.76209,32.8366,0.0 -96.76196,32.8366,0.0 -96.76156,32.8366,0.0 -96.76156,32.83647,0.0 -96.76156,32.8364,0.0 -96.76155,32.83607,0.0 -96.76155,32.83588,0.0 -96.76155,32.83569,0.0 -96.76154,32.8353,0.0 -96.76154,32.83491,0.0 -96.7615,32.83483,0.0 -96.76151,32.83452,0.0 -96.76151,32.83429,0.0 -96.76151,32.83411,0.0 -96.76151,32.83372,0.0 -96.76151,32.83331,0.0 -96.76152,32.83291,0.0 -96.76152,32.83249,0.0 -96.7642,32.83248,0.0 -96.7642,32.8324,0.0 -96.76439,32.8324,0.0 -96.76568,32.83239,0.0 -96.76568,32.83293,0.0 -96.76566,32.83323,0.0 -96.76567,32.83362,0.0 -96.76565,32.83397000000001,0.0 -96.76566,32.83436,0.0 -96.76568,32.83474,0.0 -96.76567,32.83518,0.0 -96.76567,32.83562,0.0 -96.76566,32.83606,0.0 -96.76565,32.8365,0.0 -96.76565,32.8366,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>4203 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7656483,32.8366014,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4203 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7656483,32.8366014,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N40</name>
+			<Placemark>
+				<name>Directions from 5711 Penrose Ave, Dallas, TX 75206, USA to 5711 Penrose Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77013,32.83223,0.0 -96.76954,32.83222,0.0 -96.76795,32.83221,0.0 -96.76795,32.83235,0.0 -96.76685,32.83236,0.0 -96.7668,32.83238,0.0 -96.76672,32.83239,0.0 -96.76568,32.83239,0.0 -96.76568,32.83191,0.0 -96.76568,32.83182,0.0 -96.76568,32.83135,0.0 -96.76569,32.83092,0.0 -96.76569,32.83084,0.0 -96.76569,32.83044,0.0 -96.7657,32.83003,0.0 -96.7657,32.83,0.0 -96.76571,32.82999,0.0 -96.76573,32.82997,0.0 -96.76574,32.82995,0.0 -96.76574,32.82992,0.0 -96.76574,32.8299,0.0 -96.76575,32.82988,0.0 -96.76576,32.82984,0.0 -96.76578,32.82982,0.0 -96.76578,32.8298,0.0 -96.76578,32.82939,0.0 -96.76578,32.82892,0.0 -96.76578,32.82844,0.0 -96.76578,32.82795,0.0 -96.76797,32.82796,0.0 -96.77014,32.82798,0.0 -96.77015,32.82824,0.0 -96.77015,32.82845,0.0 -96.77015,32.82867,0.0 -96.77016,32.82894,0.0 -96.77016,32.8291,0.0 -96.77016,32.82944,0.0 -96.77016,32.82952,0.0 -96.77016,32.8297,0.0 -96.77016,32.82995,0.0 -96.77017,32.83018,0.0 -96.77016,32.8305,0.0 -96.77016,32.83087,0.0 -96.77015,32.83138,0.0 -96.77014,32.831720000000004,0.0 -96.77013,32.83223,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5711 Penrose Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7701316,32.832227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5711 Penrose Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7701316,32.832227,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N30</name>
+			<Placemark>
+				<name>3698 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7656818,32.8323865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Directions from 3698 Delmar Ave, Dallas, TX 75206, USA to 3698 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.76568,32.83239,0.0 -96.76439,32.8324,0.0 -96.7642,32.8324,0.0 -96.7642,32.83248,0.0 -96.76152,32.83249,0.0 -96.76153,32.83208,0.0 -96.76154,32.83164,0.0 -96.76154,32.83124000000001,0.0 -96.76155,32.83082,0.0 -96.76155,32.830420000000004,0.0 -96.76155,32.83037,0.0 -96.76156,32.82992,0.0 -96.76156,32.82936,0.0 -96.76156,32.8289,0.0 -96.76155,32.8284,0.0 -96.76156,32.82793,0.0 -96.76365,32.82794,0.0 -96.76578,32.82795,0.0 -96.76578,32.82844,0.0 -96.76578,32.82892,0.0 -96.76578,32.82939,0.0 -96.76578,32.8298,0.0 -96.76578,32.82982,0.0 -96.76576,32.82984,0.0 -96.76575,32.82988,0.0 -96.76574,32.8299,0.0 -96.76574,32.82992,0.0 -96.76574,32.82995,0.0 -96.76573,32.82997,0.0 -96.76571,32.82999,0.0 -96.7657,32.83,0.0 -96.7657,32.83003,0.0 -96.76569,32.83044,0.0 -96.76569,32.83084,0.0 -96.76569,32.83092,0.0 -96.76568,32.83135,0.0 -96.76568,32.83182,0.0 -96.76568,32.83191,0.0 -96.76568,32.83239,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>3698 Delmar Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7656818,32.8323865,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N31</name>
+			<Placemark>
+				<name>Directions from 5701 Mercedes Ave, Dallas, TX 75206, USA to 5701 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77014,32.82798,0.0 -96.76797,32.82796,0.0 -96.76578,32.82795,0.0 -96.76365,32.82794,0.0 -96.76156,32.82793,0.0 -96.76156,32.82745,0.0 -96.76156,32.82697,0.0 -96.76157,32.82649,0.0 -96.76157,32.82601,0.0 -96.76157,32.82543,0.0 -96.76157,32.82486,0.0 -96.76366,32.82487,0.0 -96.76580000000001,32.82488,0.0 -96.76774,32.8249,0.0 -96.76799,32.8249,0.0 -96.77017,32.82491,0.0 -96.77017,32.82502,0.0 -96.77017,32.82547,0.0 -96.77017,32.8255,0.0 -96.77017,32.82599,0.0 -96.77017,32.82606,0.0 -96.77017,32.82648,0.0 -96.77016,32.82654,0.0 -96.77016,32.82698,0.0 -96.77016,32.82702,0.0 -96.77016,32.82739,0.0 -96.77016,32.8275,0.0 -96.77015,32.82781,0.0 -96.77014,32.82798,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>5701 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.770145,32.827983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5701 Mercedes Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.770145,32.827983,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>N19</name>
+			<Placemark>
+				<name>3051 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7701651,32.8249098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Directions from 3051 Greenville Ave, Dallas, TX 75206, USA to 3051 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-96.77017,32.82491,0.0 -96.76799,32.8249,0.0 -96.76774,32.8249,0.0 -96.76580000000001,32.82488,0.0 -96.76366,32.82487,0.0 -96.76157,32.82486,0.0 -96.76157,32.8243,0.0 -96.76156,32.82385,0.0 -96.76155,32.82339,0.0 -96.76153,32.82293,0.0 -96.76153,32.82247,0.0 -96.76154,32.822,0.0 -96.76368,32.822,0.0 -96.76583,32.82201,0.0 -96.76593,32.82201,0.0 -96.76796,32.82203,0.0 -96.77016,32.82204,0.0 -96.77016,32.82242,0.0 -96.77016,32.82249,0.0 -96.77016,32.82271,0.0 -96.77016,32.82296,0.0 -96.77016,32.82298,0.0 -96.77016,32.82342,0.0 -96.77015,32.82352,0.0 -96.77015,32.82388,0.0 -96.77016,32.82404,0.0 -96.77016,32.82434,0.0 -96.77016,32.82454,0.0 -96.77017,32.82491,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>3051 Greenville Ave, Dallas, TX 75206, USA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.7701651,32.8249098,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
